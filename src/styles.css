@@ -1,0 +1,136 @@
+.header{
+    padding: 8px;
+    min-height: 50px;
+    height: 50px;
+}
+
+.body{
+    margin-top: 60px;
+}
+
+.horizontal-line{
+    height: '5px';
+    background-color: #182153;
+}
+
+.navName{
+    padding: 8px;
+    margin-left: 28px;
+    font-size: 32px;
+}
+
+.navItems{
+    margin-top: 12px;
+    margin-right: 36px;
+}
+
+.about-row-1{
+    background-image: url("./images/bg1.gif");
+    background-size: cover;
+    background-position: center;
+    padding: 120px;
+    padding-bottom: 40px;
+}
+
+.about-desc{
+    padding: 80px;
+    text-align: center;
+}
+
+.about-desc-content{
+    padding: 20px;
+    text-align: justify;
+}
+
+.about-col-1{
+    padding: 0px;
+}
+
+.about-col-2{
+    background-color: #182153;
+    padding: 20px;
+}
+
+.about-portrait{
+    min-height: 50px;
+    min-width: 50px;
+    height: 100%;
+    width: 100%;
+}
+
+.about-details{
+    text-align: left;
+    padding: 40px;
+    padding-left: 80px;
+    height: 100%;
+    width: 100%;
+}
+
+.about-details-element{
+    padding-bottom: 20px;
+}
+
+.about-icon{
+    height: 24px;
+    width: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.components-header{
+    background-color: #182153;
+    color: white;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.components-row{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.components-col-left{
+    padding-right: 40px;
+    text-align: right;
+}
+
+.components-col-right{
+    padding-left: 40px;
+    text-align: left;
+}
+
+.project-card-left{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    border-width: 2px;
+}
+
+.project-card-right{
+    margin: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 20px;
+    border-width: 2px;
+    align-items: center;
+}
+
+.projects-img{
+    height: auto;
+    width: 160px;
+    padding: 10px;
+    align-items: center;
+}
+
+.projects-tool{
+    height: auto;
+    width: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.form-align-left{
+    text-align: left;
+}
+
+
