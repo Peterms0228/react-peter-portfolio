@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-peter-portfolio/static/css/main.39cbd25b.css",
-    "main.js": "/react-peter-portfolio/static/js/main.a4e8ce2c.js",
+    "main.css": "/react-peter-portfolio/static/css/main.53329c08.css",
+    "main.js": "/react-peter-portfolio/static/js/main.92a3f17d.js",
     "static/js/787.eec2549f.chunk.js": "/react-peter-portfolio/static/js/787.eec2549f.chunk.js",
-    "static/media/bg1.gif": "/react-peter-portfolio/static/media/bg1.816b40350210f2cf55f3.gif",
-    "static/media/portrait.png": "/react-peter-portfolio/static/media/portrait.53554b61b8b09d2e7b7f.png",
+    "static/media/bg_1.gif": "/react-peter-portfolio/static/media/bg_1.816b40350210f2cf55f3.gif",
+    "static/media/portrait_2.png": "/react-peter-portfolio/static/media/portrait_2.7a0966eeefd70e7f99c2.png",
     "static/media/project1_2.png": "/react-peter-portfolio/static/media/project1_2.9d62782c3ae529397916.png",
     "static/media/android_studio.png": "/react-peter-portfolio/static/media/android_studio.4258b19234f1083d926f.png",
     "static/media/project1_1.png": "/react-peter-portfolio/static/media/project1_1.f527b3490d4fff4307d4.png",
     "index.html": "/react-peter-portfolio/index.html",
-    "main.39cbd25b.css.map": "/react-peter-portfolio/static/css/main.39cbd25b.css.map",
-    "main.a4e8ce2c.js.map": "/react-peter-portfolio/static/js/main.a4e8ce2c.js.map",
+    "main.53329c08.css.map": "/react-peter-portfolio/static/css/main.53329c08.css.map",
+    "main.92a3f17d.js.map": "/react-peter-portfolio/static/js/main.92a3f17d.js.map",
     "787.eec2549f.chunk.js.map": "/react-peter-portfolio/static/js/787.eec2549f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39cbd25b.css",
-    "static/js/main.a4e8ce2c.js"
+    "static/css/main.53329c08.css",
+    "static/js/main.92a3f17d.js"
   ]
 }
