@@ -11,7 +11,7 @@ function About() {
     <Container id="about">     
       <Row className='about-row-1'>
         <Col md={6} className="about-col-1">
-          <Image className="about-portrait" src={require("../images/portrait.png")} alt="portrait.png" rounded ></Image>
+          <Image className="about-portrait" src={require("../images/portrait_2.png")} alt="portrait.png" rounded ></Image>
         </Col>
         <Col md={6} className="about-col-1">
           <Card className="about-details">
