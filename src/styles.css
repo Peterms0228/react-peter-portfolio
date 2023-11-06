@@ -28,17 +28,19 @@
     background-image: url("./images/bg_1.gif");
     background-size: cover;
     background-position: center;
-    padding: 120px;
-    padding-bottom: 40px;
+    padding: 10%;
+    padding-bottom: 5%;
 }
 
 .about-desc{
-    padding: 80px;
+    padding: 4%;
     text-align: center;
 }
 
 .about-desc-content{
-    padding: 20px;
+    padding: 8%;
+    padding-top: 4%;
+    padding-bottom: 4%;
     text-align: justify;
 }
 
@@ -52,22 +54,20 @@
 }
 
 .about-portrait{
-    min-height: 50px;
-    min-width: 50px;
     height: 100%;
     width: 100%;
 }
 
 .about-details{
     text-align: left;
-    padding: 40px;
-    padding-left: 80px;
+    padding-top: 8%;
+    padding-left: 16%;
     height: 100%;
     width: 100%;
 }
 
 .about-details-element{
-    padding-bottom: 20px;
+    padding-bottom: 4%;
 }
 
 .about-icon{
