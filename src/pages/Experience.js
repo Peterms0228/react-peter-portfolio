@@ -7,6 +7,7 @@ import '../styles.css';
 function Experience() {
   return (
     <Container id="experience" className="my-5">
+      <div class="blank-space"></div>
       <Row className='components-header'>
         <h1>Experience</h1>
       </Row>

@@ -6,7 +6,7 @@ import '../styles.css'
 
 
 function Header() {
-  return (
+  return (// fixed="top"
     <Navbar bg="light" variant="light" expand="lg" fixed="top"> 
       <Container>
       <Navbar.Brand href="#home">

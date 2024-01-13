@@ -23,6 +23,7 @@ function Contact() {
 
   return (
     <Container id="contact" className="my-5">
+      <div class="blank-space"></div>
       <Row className='components-header'>
         <h1>Contact Me</h1>
       </Row>

@@ -8,6 +8,10 @@
     margin-top: 60px;
 }
 
+.blank-space{
+    height: 90px;
+}
+
 .horizontal-line{
     height: '5px';
     background-color: #182153;

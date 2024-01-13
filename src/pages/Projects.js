@@ -9,6 +9,7 @@ import '../styles.css';
 function Projects() {
   return (
     <Container id="projects" className="my-5">
+      <div class="blank-space"></div>
       <Row className='components-header'>
         <h1>Projects</h1>
       </Row>

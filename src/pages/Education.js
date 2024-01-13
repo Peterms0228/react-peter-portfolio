@@ -7,6 +7,7 @@ import '../styles.css';
 function Education() {
   return (
     <Container id="education" className="my-5">
+      <div class="blank-space"></div>
       <Row className='components-header'>
         <h1>Education</h1>
       </Row>
