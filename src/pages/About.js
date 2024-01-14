@@ -5,6 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Card from 'react-bootstrap/Card';
 import '../styles.css';
+import { FaLinkedin, FaGithub, FaWhatsapp, FaDiscord } from "react-icons/fa";
 
 function About() {
   return (
@@ -39,16 +40,16 @@ function About() {
         </Col>
         <Col md={12} aria-rowspan={2} className="about-col-2">
           <a href="https://www.linkedin.com/in/meng-sin-chua-648812281/" target="_blank" rel="noreferrer">
-            <Image className="about-icon" src={require("../images/icons/linkedin_light.png")} alt="linkedin_light.png"></Image>
+            <FaLinkedin className="icon-outline" />
           </a>
           <a href="https://github.com/Peterms0228" target="_blank" rel="noreferrer">
-            <Image className="about-icon" src={require("../images/icons/github_light.png")} alt="github_light.png"></Image>
+            <FaGithub className="icon-outline"/>
           </a>
           <a href="https://wa.me/+60162158473" target="_blank" rel="noreferrer">
-            <Image className="about-icon" src={require("../images/icons/whatsapp_light.png")} alt="whatsapp_light.png"></Image>
+            <FaWhatsapp className="icon-outline" />
           </a>
           <a href="https://discordapp.com/users/1148913807041773608" target="_blank" rel="noreferrer">
-            <Image className="about-icon" src={require("../images/icons/discord_light.png")} alt="discord_light.png"></Image>
+            <FaDiscord className="icon-outline" />
           </a>
         </Col>
       </Row>

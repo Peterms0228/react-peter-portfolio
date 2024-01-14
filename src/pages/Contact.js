@@ -4,12 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form'
 import Button from 'react-bootstrap/Button'
-import Image from 'react-bootstrap/Image';
 import '../styles.css';
 import FormGroup from 'react-bootstrap/esm/FormGroup';
 import { useState } from 'react';
 import { sendEmail } from '../components/EmailManager';
-
+import { FaLinkedin, FaGithub, FaWhatsapp, FaDiscord } from "react-icons/fa";
 function Contact() {
 
   const [displayText, setDisplayText] = useState('');
@@ -73,17 +72,18 @@ function Contact() {
             <br/><br/>
             <hr/>
             <a href="https://www.linkedin.com/in/meng-sin-chua-648812281/" target="_blank" rel="noreferrer">
-              <Image className="about-icon" src={require("../images/icons/linkedin_dark.png")} alt="linkedin_dark.png"></Image>
+              <FaLinkedin className="icon linkedin" />
             </a>
             <a href="https://github.com/Peterms0228" target="_blank" rel="noreferrer">
-              <Image className="about-icon" src={require("../images/icons/github_dark.png")} alt="github_dark.png"></Image>
+              <FaGithub className="icon github"/>
             </a>
             <a href="https://wa.me/+60162158473" target="_blank" rel="noreferrer">
-              <Image className="about-icon" src={require("../images/icons/whatsapp_dark.png")} alt="whatsapp_dark.png"></Image>
+              <FaWhatsapp className="icon whatsapp"/>
             </a>
             <a href="https://discordapp.com/users/1148913807041773608" target="_blank" rel="noreferrer">
-              <Image className="about-icon" src={require("../images/icons/discord_dark.png")} alt="discord_dark.png"></Image>
+              <FaDiscord className="icon discord"/>
             </a>
+
           </div>
         </Col>
       </Row>

@@ -8,6 +8,44 @@
     margin-top: 60px;
 }
 
+.icon{
+    height: 24px;
+    width: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    transition: all 0.3s linear;
+}
+
+.icon-outline{
+    height: 24px;
+    width: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    transition: all 0.3s linear;
+}
+
+.icon:hover, .icon-outline:hover {
+    transform: scale(1.1);
+}
+
+.linkedin:hover {
+    color: #0075B5;
+}
+
+.github:hover {
+    color: #24292e;
+}
+
+.whatsapp:hover {
+    color: #25D366;
+}
+
+.discord:hover {
+    color: #7289d9;
+}
+
 .blank-space{
     height: 90px;
 }
@@ -72,13 +110,6 @@
 
 .about-details-element{
     padding-bottom: 4%;
-}
-
-.about-icon{
-    height: 24px;
-    width: 24px;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 .components-header{
